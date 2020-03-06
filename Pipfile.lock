@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "bc16b12e0b9b396111a6c1f83f2e23cce857f98693bb84880d6a81788546b331"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "chatterbot-corpus": {
+            "git": "https://github.com/gunthercox/chatterbot-corpus.git",
+            "ref": "e0dbbcee94dbdc3a67e1e96a397035baee5f089a"
+        }
+    },
+    "develop": {}
+}
